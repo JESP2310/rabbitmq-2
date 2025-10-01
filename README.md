@@ -1,6 +1,6 @@
 # rabbitmq-2
 
-RabbitMQ Task Queue - Python (Resumo)
+RabbitMQ Task Queue - Python
 
 Este projeto contém dois scripts Python que demonstram o uso de fila de tarefas com RabbitMQ:
 
